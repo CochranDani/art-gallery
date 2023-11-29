@@ -1,0 +1,226 @@
+@charset "UTF-8";
+
+#container-1{
+    background:#151515;
+    width: 450px;
+    height: 799px;
+    flex-shrink: 0;
+}
+
+h1{
+    color: var(--white, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Big Shoulders Display;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; 
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-left: 165px ;
+    width: 514px;
+    position: absolute;
+}
+img{
+    position: right;
+    width: 540px;
+    height: 800px;
+    flex-shrink: 0;
+    margin-left: 450px;
+}
+ p{
+    font-family: Outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 910px;
+    width: 350px;
+ }
+
+    button{
+     background:#151515;
+     width: 204px;
+     height: 72px;
+     flex-shrink: 0;
+     position: absolute;
+     margin-top: 464px;
+     margin-left: 910px;   
+     color: white;
+     font-family: Big Shoulders Display;
+     font-size: 20px;
+     font-style: normal;
+     font-weight: 800;
+     line-height: normal;
+     letter-spacing: 3.636px;
+    }
+
+    button#second{
+    background: #D5966C;
+     width: 56px;
+     height: 72px;
+     flex-shrink: 0;
+     position: absolute;
+     margin-top: 464px;
+     margin-left: 1100px;   
+     color: #FFF;
+     font-style: normal;
+     font-weight: 1000px;
+     line-height: normal;
+     }
+
+     h2{
+        color: #151515;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Big Shoulders Display;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 60px; 
+        text-transform: uppercase;
+        margin-left: 165px ;
+        margin-top: 240px;
+        position: absolute;
+        }
+    #container-2 p{
+     font-family: Outfit;
+     font-size: 22px;
+     font-style: normal;
+     font-weight: 300;
+     line-height: 32px;
+     color:  #444;
+     margin-left: 165px ;
+     position: absolute;
+     margin-top: -208px;
+     }
+    
+
+#grid-1{
+    width: 635px;
+    height: 400px;
+    flex-shrink: 0;
+    margin-left: 640px;
+    margin-top: 180px;
+}
+
+#grid-2{
+width: 635px;
+height: 720px;
+flex-shrink: 0;
+margin-left: 165px ;
+margin-top: 30px;
+}
+
+#grid-3{
+width: 445px;
+height: 313px;
+flex-shrink: 0;
+margin-left: 30px;
+margin-top: 30px;
+position: absolute;
+
+}
+#container-3 {
+background:#151515;   
+width: 445px;
+height: 377px;
+flex-shrink: 0;
+position: absolute;
+margin-left: 830px;
+margin-top: -380px;
+}
+
+#container-3 p{
+font-family: Outfit;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: 32px; 
+margin-left: 30px ;
+margin-top: 30px;
+position: absolute;
+color: #FFF;
+margin-left: 48px;
+padding-top: 162px;
+
+
+}
+
+#container-3 h3{
+font-family: Big Shoulders Display;
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: 60px;
+text-transform: uppercase;
+color:#FFF;
+padding-top: -85px;
+padding-left: 48px;
+position: absolute;
+}
+
+footer {
+background:#151515;
+width: 1440px;
+height: 244px;
+flex-shrink: 0;
+position: absolute;
+margin-top: 180px;
+ 
+}
+
+footer img{
+    width: 159.572px;
+    height: 58px;
+    flex-shrink: 0; 
+    padding-top: 80px;
+    margin-left: 165px;
+}
+
+footer p{
+width: 430px;
+font-family: Outfit;
+font-size: 18px;
+font-style: normal;
+font-weight: 300px;
+line-height: 28px; 
+padding-left:300px;
+padding-top: 282px;
+color: white;
+position: absolute;
+}
+ 
+footer #icon1{
+float: right;
+position: absolute;
+margin-left: 1175px;
+margin-top: -144px;
+width: 100px;
+height: 20px;
+flex-shrink: 0;
+    
+}
+
+footer #icon2{
+    float: right;
+    position: absolute;
+    margin-left: 1215px;
+    margin-top: -144px;
+    width: 100px;
+    height: 20px;
+    flex-shrink: 0;
+        
+    }
+
+    footer #icon3{
+        float: right;
+        position: absolute;
+        margin-left: 1255px;
+        margin-top: -144px;
+        width: 100px;
+        height: 20px;
+        flex-shrink: 0;
+            
+        }
